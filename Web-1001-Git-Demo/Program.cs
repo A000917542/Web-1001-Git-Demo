@@ -12,7 +12,7 @@ namespace Web_1001_Git_Demo
             Console.ReadLine();
 
             var x = 5;
-
+            var f = 3;
             var y = x;
         }
     }
