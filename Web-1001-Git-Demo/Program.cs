@@ -12,6 +12,8 @@ namespace Web_1001_Git_Demo
             Console.ReadLine();
 
             var x = 5;
+
+            var y = x;
         }
     }
 }
